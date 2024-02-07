@@ -18,8 +18,8 @@ header {
 }
 
 .banner-left {
-  padding: 140px 97px 120px 170px;
-  width: 50%;
+  padding: 140px 0px 120px 170px;
+  width: 40%;
 
 }
 
@@ -39,7 +39,6 @@ header {
 .banner-image {
   margin: 50px 170px 0px 0px;
   transform: scaleX(-1);
-
 
 }
 
